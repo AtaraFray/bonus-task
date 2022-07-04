@@ -6,9 +6,12 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+      <h1>Hello !!!!</h1>
+      <h2>I'm happy to show you my project</h2>
+      
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.tsx</code> and save to reload.
+         Atara Fray 
         </p>
         <a
           className="App-link"
